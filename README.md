@@ -17,7 +17,7 @@
 * [Para contribuir](#mailbox-para-contribuir)
 * [Histórico de atualizações](#clock10-histórico-de-atualizações)
 
-# :images: Imagens
+# :photo: Imagens
 
 ![](https://media.discordapp.net/attachments/571752920685477889/984849637468946432/disney1.PNG?width=1210&height=634)
 ![](https://media.discordapp.net/attachments/571752920685477889/984849638144237688/disney2.PNG?width=1208&height=635)
