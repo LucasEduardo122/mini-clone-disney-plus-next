@@ -24,7 +24,7 @@
 
 # :interrobang: Sobre o projeto
 
-Projeto realizado durante a NLW#Return realizado pela Rocketseat. Foi desenvolvido um widget para o usuário realizar feedback de maneira interativa.
+Projeto realizado para fins de estudo.
 ## 🧑‍💻 Tecnologias utilizadas
 
 - [React](https://reactjs.org)
